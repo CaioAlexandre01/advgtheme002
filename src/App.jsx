@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="w-screen text-white">
+    <div className=" lg:hidden w-screen text-white">
       <div>
         <header className="w-screen bg-[#191A1C] text-center fixed z-50">
           <nav className="bg-transparent text-slate-100 shadow-lg py-3">
